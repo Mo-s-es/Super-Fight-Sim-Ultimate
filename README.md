@@ -218,8 +218,6 @@ L Stick - Movement
 #### XBox Controller
 #### PlayStation Controller
 #
-### Stats
-Stats include: ATK, CHA, DEF, DEX, HP, INT, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
 ### Gamemodes
 #### Adventure
 ##### Singleplayer
@@ -244,3 +242,6 @@ Someone just got screwed over.
 See who's the champion. Best for large groups.
 ### Official Competitions
 These are tourneys hosted by us. We'll do one once a month once the game gets popular. Until then enjoy the annual matches.
+#
+### Stats
+Stats include: ATK, CHA, DEF, DEX, HP, INT, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
