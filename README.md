@@ -174,7 +174,7 @@ L - throw
 
 ZR - block
 
-ZL - hide
+ZL - counter
 
 R Stick pressed - auto-aim
 
@@ -216,6 +216,37 @@ R Stick - Aiming
 
 L Stick - Movement
 #### XBox Controller
+A - special attack
+
+B - basic attack
+
+X - dash
+
+Y - jump
+
+D-Pad Up - up emote
+
+D-Pad Down - down emote
+
+D-Pad Right - right emote
+
+D-Pad Left - left emote
+
+RB - grab
+
+LB - throw
+
+RT - block
+
+LT - counter
+
+R Stick pressed - auto-aim
+
+L Stick pressed - run
+
+R Stick - aim
+
+L Stick - movement
 #### PlayStation Controller
 #
 ### Gamemodes
