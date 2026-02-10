@@ -280,6 +280,17 @@ R Stick - aim
 
 L Stick - movement
 #
+### Types Of Attacks
+#### Basic Attacks
+Can be used at any time. Meduim ATK. Medium KB. Low RGE.
+Types: ground forward, ground side, ground up, ground down, low forward, low side, low up, low down, air forward, air side, air up, air down, swimming forward, swimming side, swimming up, swimming down.
+#### Special Attacks
+Can be used at any time. ATK varies. KB varies. RGE varies.
+Types: ground forward, ground side, ground up, ground down, air forward, air side, air up, air down.
+#### Super Attacks
+Can be used when energy is 500. High ATK. Medium KB. High RGE.
+Types: basic, side, charge.
+#
 ### Gamemodes
 #### Adventure
 ##### Singleplayer
@@ -306,4 +317,4 @@ See who's the champion. Best for large groups.
 These are tourneys hosted by us. We'll do one once a month once the game gets popular. Until then enjoy the annual matches.
 #
 ### Stats
-Stats include: ATK, CHA, DEF, DEX, HP, INT, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
+Stats include: ATK, CHA, DEF, DEX, HP, INT, KB, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
