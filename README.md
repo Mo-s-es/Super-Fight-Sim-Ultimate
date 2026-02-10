@@ -1,1 +1,5 @@
-# Super-Fight-Sim-Ultimate
+## Super
+# Fight Sim
+## Ultimate
+#
+Simulate fights between your favorite characters!
