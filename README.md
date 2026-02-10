@@ -8,25 +8,45 @@ Simulate fights between your favorite characters!
 These are just the default. Controls can be remapped in the settings. This game may not be compattable with some 3rd party controllers.
 #### Keyboard + Mouse
 Left CLick - basic attack
+
 Right Click - special attack
+
 Middle Click - basic super
+
 Scroll Wheel - color change
+
 A - move left
+
 C - change perspective
+
 D - move right
+
 E - grab
+
 Q - throw
+
 R - run
+
 S - move backward
+
 T - emote
+
 W - move forward
+
 Space - jump
+
 Up Arrow - aim up
+
 Down Arrow - aim down
+
 Right Arrow - aim right
+
 Left Arrow - aim left
+
 R Shift - block
+
 L Shift - crouch
+
 ESC - pause
 #### Touchscreen
 The buttons are on the screen. We advise against using mobile but you can do what you want.
@@ -194,5 +214,3 @@ Someone just got screwed over.
 See who's the champion. Best for large groups.
 ### Official Competitions
 These are tourneys hosted by us. We'll do one once a month once the game gets popular. Until then enjoy the annual matches.
-#
-Could not find image
