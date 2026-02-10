@@ -50,6 +50,36 @@ L Shift - crouch
 ESC - pause
 #### Touchscreen
 The buttons are on the screen. We advise against using mobile but you can do what you want.
+#### Joystick
+1 - basic attack
+
+2 - special attack
+
+3 - left super
+
+4 - right super
+
+5 - charge super
+
+6 - basic super
+
+7 - block
+
+8 - counter
+
+9 - grab
+
+10 - throw
+
+11 - jump
+
+12 - crouch
+
+Throttle - color change
+
+Main Stick - movement
+
+Sub Stick - aim
 #### Nintendo Controller
 ##### Joycons (2)
 A - basic attack
@@ -78,7 +108,7 @@ L - throw
 
 ZR - block
 
-ZL - hide
+ZL - counter
 
 RSR - up super
 
