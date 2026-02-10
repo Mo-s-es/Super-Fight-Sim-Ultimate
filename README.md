@@ -196,7 +196,7 @@ Stats include: ATK, CHA, DEF, DEX, HP, INT, MATK, MP, PWR, RATK, RGE, SP, SPD, a
 Depart on an adventure alone. Fight enemies. Help NPCs. Buy items. Reach Checkpoints. Fight bosses. Become the strongest!
 ##### Multiplayer
 Go on the an adventure with your friends. Gang up on enemies. Gang up on bosses. Fight your friends.
-#### FFO
+#### Free For All
 ##### 1v1
 Find out who's stronger.
 ##### 1v1+
