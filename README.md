@@ -248,6 +248,37 @@ R Stick - aim
 
 L Stick - movement
 #### PlayStation Controller
+Triangle - jump
+
+X - special attack
+
+O - basic attack
+
+Square - dash
+
+D-Pad Up - up emote
+
+D-Pad Down - down emote
+
+D-Pad Right - right emote
+
+D-Pad Left - left emote
+
+R1 - grab
+
+L1 - throw
+
+R2 - block
+
+L2 - counter
+
+R Stick pressed - auto-aim
+
+L Stick pressed - run
+
+R Stick - aim
+
+L Stick - movement
 #
 ### Gamemodes
 #### Adventure
