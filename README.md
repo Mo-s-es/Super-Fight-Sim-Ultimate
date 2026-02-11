@@ -292,8 +292,8 @@ Can be used when energy is 500. High ATK. Medium KB. High RGE.
 Types: basic, side, charge.
 #
 ### Energy
-Energy is used to charge up super attacks and some special attacks. Get it from attacking and taking damage.
-Energy = ( NumberOfBasicAttacksLanded * 25 ) + ( NumberOfSpecialAttacksLanded * 5 ) - ( NumberOfSuperAttacksUsed * 500 )
+Energy is used to charge up super attacks and some special attacks. Get it from attacking players and taking damage from players.
+Energy = ( NumberOfBasicAttacksLandedOnPlayers * 25 ) + ( NumberOfSpecialAttacksLandedOnPlayers * 5 ) - ( NumberOfSuperAttacksUsed * 500 )
 #
 ### Stats
 Stats include: ATK, CHA, DEF, DEX, HP, INT, KB, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
