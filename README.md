@@ -298,6 +298,10 @@ Energy = ( NumberOfBasicAttacksLandedOnPlayers * 25 ) + ( NumberOfSpecialAttacks
 ### Stats
 Stats include: ATK, CHA, DEF, DEX, HP, INT, KB, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
 #
+### Creating Characters
+In characters press create and import a file then a screen where you can choose abillities.
+You can import skins for many other games like Minecraft and Roblox.
+#
 ### How Rounds Work
 #### Adventure Mode
 Ends when you beat the final boss unless you're in endless mode. At the end it shows your score.
@@ -312,6 +316,8 @@ Ends when one player is crowned champion. At the end shows winner's stats from t
 Depart on an adventure alone. Fight enemies. Help NPCs. Buy items. Reach Checkpoints. Fight bosses. Become the strongest!
 ##### Multiplayer
 Go on the an adventure with your friends. Gang up on enemies. Gang up on bosses. Fight your friends.
+#### Tower Defence
+Minigame for when you're board.
 #### Free For All
 ##### 1v1
 Find out who's stronger.
