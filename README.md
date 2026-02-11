@@ -3,6 +3,8 @@
 ## Ultimate
 #
 Simulate fights between your favorite characters!
+
+For people who want a fun fighting game to play with friends or alone!
 #
 ### Controls
 These are just the default. Controls can be remapped in the settings. This game may not be compattable with some 3rd party controllers.
