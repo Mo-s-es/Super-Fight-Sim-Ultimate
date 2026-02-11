@@ -295,6 +295,17 @@ Types: basic, side, charge.
 Energy is used to charge up super attacks and some special attacks. Get it from attacking and taking damage.
 Energy = ( NumberOfBasicAttacksLanded * 25 ) + ( NumberOfSpecialAttacksLanded * 5 ) - ( NumberOfSuperAttacksUsed * 500 )
 #
+### Stats
+Stats include: ATK, CHA, DEF, DEX, HP, INT, KB, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
+#
+### How Rounds Work
+#### Adventure Mode
+Ends when you beat the final boss unless you're in endless mode. At the end it shows your score.
+#### Match Mode
+Ends when one player or team is left. At the end shows a leaderboard and round stats. You can also save a video of the match.
+#### Torney Mode
+Ends when one player is crowned champion. At the end shows winner's stats from the torney. You can also save a video of the torney.
+#
 ### Gamemodes
 #### Adventure
 ##### Singleplayer
@@ -319,6 +330,3 @@ Someone just got screwed over.
 See who's the champion. Best for large groups.
 ### Official Competitions
 These are tourneys hosted by us. We'll do one once a month once the game gets popular. Until then enjoy the annual matches.
-#
-### Stats
-Stats include: ATK, CHA, DEF, DEX, HP, INT, KB, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
