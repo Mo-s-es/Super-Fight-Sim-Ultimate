@@ -1,13 +1,12 @@
-## Super
+f## Super
 # Fight Sim
 ## Ultimate
 #
 Simulate fights between your favorite characters!
 
 For people who want a fun fighting game to play with friends or alone!
-#
 ### Controls
-These are just the default. Controls can be remapped in the settings. This game may not be compattable with some 3rd party controllers.
+These are just the default. Controls can be remapped in the settings. This game may not be compatible with some 3rd party controllers.
 #### Keyboard + Mouse
 Left CLick - basic attack
 
@@ -301,7 +300,7 @@ Energy = ( NumberOfBasicAttacksLandedOnPlayers * 25 ) + ( NumberOfSpecialAttacks
 Stats include: ATK, CHA, DEF, DEX, HP, INT, KB, MATK, MP, PWR, RATK, RGE, SP, SPD, and WIS. Different stats apply to different things.
 #
 ### Creating Characters
-In characters press create and import a file then a screen where you can choose abillities.
+In characters press create and import a file then a screen where you can choose abilities.
 You can import skins for many other games like Minecraft and Roblox.
 #
 ### How Rounds Work
@@ -317,9 +316,9 @@ Ends when one player is crowned champion. At the end shows winner's stats from t
 ##### Singleplayer
 Depart on an adventure alone. Fight enemies. Help NPCs. Buy items. Reach Checkpoints. Fight bosses. Become the strongest!
 ##### Multiplayer
-Go on the an adventure with your friends. Gang up on enemies. Gang up on bosses. Fight your friends.
+Go on an adventure with your friends. Gang up on enemies. Gang up on bosses. Fight your friends.
 #### Tower Defence
-Minigame for when you're board.
+Minigame for when you're bored.
 #### Free For All
 ##### 1v1
 Find out who's stronger.
